@@ -28,7 +28,7 @@ public class EditBook {
         GridPane grid = new GridPane();
         grid.setHgap(10);
         grid.setVgap(10);
-        grid.setPadding(new Insets(20,150,10,10));
+        grid.setPadding(new Insets(20, 150, 10, 10));
 
         TextField author = new TextField();
         author.setPromptText("Автор");
